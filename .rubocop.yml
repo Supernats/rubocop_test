@@ -39,7 +39,7 @@ Style/MultilineOperationIndentation:
   Enabled: false
 
 Style/MultilineMethodCallIndentation:
-  Enabled: false
+  EnforcedStyle: indented_relative_to_receiver
 
 Style/PercentLiteralDelimiters:
   Enabled: false
